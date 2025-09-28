@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, Я - Андрей Варин
+#### 16 лет, студент колледжа "Сириус".
+![16 лет, студент колледжа "Сириус".](![Вот он я]([https://vk.com/varinandrej?z=photo496337483_457241801%2Fwall496337483_290](https://sun9-78.userapi.com/s/v1/ig2/N9Ot1pcwHOsal0_6i1BxVptpzefUZCseS2l9bB4xIFlgeFzB5Ia4kTt9OjQiqcuCf_V6hPrKsBQjOuVot1-gV5hV.jpg?quality=95&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x719,540x809,640x959,720x1079,854x1280&from=bu&cs=854x0)))
 
-<!--
-**Womiiii/Womiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Имею небольшой опыт программирования, мне интересна автоматизация задач.
 
-Here are some ideas to get you started:
+Skills: Python / AHK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
